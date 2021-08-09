@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman Gupta
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on React JS projects
 - 📫 Reach me at amangupta.95@outlook.com
 
 <!---
