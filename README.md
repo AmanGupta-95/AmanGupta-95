@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Gupta
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning System Design
 - 💞️ I’m looking to collaborate on React JS projects
 - 📫 Reach me at amangupta.95@outlook.com
 
