@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">Passionate Full-Stack Developer with 5+ years of expertise in React, Angular, and Node.js, driving innovation in web applications. Proven leadership in team management and a solid background as a computer science expert.</h3>
 
-- 🔭 I’m currently working on [Examfactor](https://github.com/EF-Assesshub/mobile-app-rn)
+- 🔭 I’m currently working on [Examfactor](https://github.com/EF-Assesshub/mobile-app-rn) and Istamer
 
-- 🌱 I’m currently learning **RTK Query, Next.js and Spring Boot**
+<!---- 🌱 I’m currently learning **RTK Query, Next.js and Spring Boot** --->
 
-- 👯 I’m looking to collaborate on [Supabase](https://github.com/supabase/supabase)
+<!---- 👯 I’m looking to collaborate on [Supabase](https://github.com/supabase/supabase) --->
 
 - 💬 Ask me about **React, Angular and JavaScript**
 
