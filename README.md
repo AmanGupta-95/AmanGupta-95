@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amangupta.95@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pko9j9ifIrKYSwv1s6xOwlOJ2Km6n351/view?usp=sharing](https://drive.google.com/file/d/1pko9j9ifIrKYSwv1s6xOwlOJ2Km6n351/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1pko9j9ifIrKYSwv1s6xOwlOJ2Km6n351/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
